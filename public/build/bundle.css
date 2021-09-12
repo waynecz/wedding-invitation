@@ -204,103 +204,103 @@ ul {
 }
 .z-10 {
   z-index: 10;
-}.container.svelte-6vxbqk.svelte-6vxbqk {
+}.container.svelte-1r8r8hy.svelte-1r8r8hy {
   width: 100%;
   margin: 0 auto;
 }
-.intro.svelte-6vxbqk.svelte-6vxbqk {
+.intro.svelte-1r8r8hy.svelte-1r8r8hy {
   background-color: #fff;
 }
-p.svelte-6vxbqk.svelte-6vxbqk {
+p.svelte-1r8r8hy.svelte-1r8r8hy {
   font-family: 'Source Serif Pro', serif;
 }
-h1.svelte-6vxbqk.svelte-6vxbqk, h2.svelte-6vxbqk.svelte-6vxbqk, h4.svelte-6vxbqk.svelte-6vxbqk, h5.svelte-6vxbqk.svelte-6vxbqk {
+h1.svelte-1r8r8hy.svelte-1r8r8hy, h2.svelte-1r8r8hy.svelte-1r8r8hy, h4.svelte-1r8r8hy.svelte-1r8r8hy, h5.svelte-1r8r8hy.svelte-1r8r8hy {
   font-family: '思源宋体 CN', serif;
 }
-.whats-it.svelte-6vxbqk.svelte-6vxbqk {
+.whats-it.svelte-1r8r8hy.svelte-1r8r8hy {
   display: block;
   font-size: 8.5px;
   line-height: 18px;
   transform: translateY(1px);
   text-decoration: underline;
 }
-.b-n-o.svelte-6vxbqk.svelte-6vxbqk {
+.b-n-o.svelte-1r8r8hy.svelte-1r8r8hy {
   margin-top: 6px;
   margin-bottom: -4px;
   color: var(--primary-color);
 }
-.our-name.svelte-6vxbqk.svelte-6vxbqk {
+.our-name.svelte-1r8r8hy.svelte-1r8r8hy {
   font-size: 40px;
   line-height: 57px;
   font-weight: 600;
 }
-.magic-circle.svelte-6vxbqk.svelte-6vxbqk {
+.magic-circle.svelte-1r8r8hy.svelte-1r8r8hy {
   position: absolute;
   top: 0;
   width: 98px;
   height: 98px;
   background-color: var(--primary-color);
 }
-.separator.svelte-6vxbqk.svelte-6vxbqk {
+.separator.svelte-1r8r8hy.svelte-1r8r8hy {
   margin-top: 58px;
   background-color: #111;
   transform: scaleY(0.7);
 }
-.which-day.svelte-6vxbqk.svelte-6vxbqk {
+.which-day.svelte-1r8r8hy.svelte-1r8r8hy {
   font-size: 32px;
   line-height: 44px;
 }
-.sentence.svelte-6vxbqk>h4.svelte-6vxbqk {
+.sentence.svelte-1r8r8hy>h4.svelte-1r8r8hy {
   font-size: 14px;
   line-height: 20px;
 }
-.sentence.svelte-6vxbqk>p.svelte-6vxbqk {
+.sentence.svelte-1r8r8hy>p.svelte-1r8r8hy {
   font-size: 12px;
   line-height: 14px;
 }
-.location.svelte-6vxbqk.svelte-6vxbqk::before {
+.location.svelte-1r8r8hy.svelte-1r8r8hy::before {
   position: absolute;
   left: -14px;
   top: 2px;
   content: url(/assets/location.svg);
 }
-#vlog.svelte-6vxbqk.svelte-6vxbqk {
+#vlog.svelte-1r8r8hy.svelte-1r8r8hy {
   overflow: hidden;
 }
-#vlog.svelte-6vxbqk.svelte-6vxbqk::after {
+#vlog.svelte-1r8r8hy.svelte-1r8r8hy::after {
   content: '';
   display: block;
   padding-bottom: 56.25%;
   background-color: #111;
 }
-.process.svelte-6vxbqk.svelte-6vxbqk {
+.process.svelte-1r8r8hy.svelte-1r8r8hy {
   color: white;
   padding-bottom: 75px;
 }
-.process.svelte-6vxbqk>h2.svelte-6vxbqk {
+.process.svelte-1r8r8hy>h2.svelte-1r8r8hy {
   font-size: 25px;
   line-height: 36px;
   font-weight: 600;
 }
-.process.svelte-6vxbqk>p.svelte-6vxbqk {
+.process.svelte-1r8r8hy>p.svelte-1r8r8hy {
   font-size: 10px;
   line-height: 14px;
   text-decoration: underline;
 }
-.steps.svelte-6vxbqk.svelte-6vxbqk {
+.steps.svelte-1r8r8hy.svelte-1r8r8hy {
   margin-top: 43px;
   padding-left: 11px;
 }
-.step-item.svelte-6vxbqk.svelte-6vxbqk {
+.step-item.svelte-1r8r8hy.svelte-1r8r8hy {
   margin-bottom: 33px;
 }
-.step-title.svelte-6vxbqk.svelte-6vxbqk {
+.step-title.svelte-1r8r8hy.svelte-1r8r8hy {
   position: relative;
   font-size: 16px;
   line-height: 21px;
   font-weight: 600;
 }
-.step-title.svelte-6vxbqk.svelte-6vxbqk::before {
+.step-title.svelte-1r8r8hy.svelte-1r8r8hy::before {
   position: absolute;
   left: -16px;
   top: 4px;
@@ -310,7 +310,7 @@ h1.svelte-6vxbqk.svelte-6vxbqk, h2.svelte-6vxbqk.svelte-6vxbqk, h4.svelte-6vxbqk
   border-radius: 50%;
   background-color: var(--secondary-color);
 }
-.step-details.svelte-6vxbqk.svelte-6vxbqk {
+.step-details.svelte-1r8r8hy.svelte-1r8r8hy {
   margin-top: 5px;
   font-size: 13px;
   line-height: 17px;
@@ -318,28 +318,28 @@ h1.svelte-6vxbqk.svelte-6vxbqk, h2.svelte-6vxbqk.svelte-6vxbqk, h4.svelte-6vxbqk
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
         Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
-.hint.svelte-6vxbqk.svelte-6vxbqk {
+.hint.svelte-1r8r8hy.svelte-1r8r8hy {
   font-size: 13px;
   line-height: 17px;
   padding-left: 12px;
   color: var(--secondary-color);
 }
-.douyin-live.svelte-6vxbqk.svelte-6vxbqk {
+.douyin-live.svelte-1r8r8hy.svelte-1r8r8hy {
   position: relative;
   width: 44vw;
   height: 44vw;
   margin: 83px auto 40px;
 }
-.douyin-text.svelte-6vxbqk.svelte-6vxbqk {
+.douyin-text.svelte-1r8r8hy.svelte-1r8r8hy {
   font-size: 11px;
   line-height: 14px;
   font-weight: 300;
   text-align: center;
 }
-.gallery.svelte-6vxbqk.svelte-6vxbqk {
+.gallery.svelte-1r8r8hy.svelte-1r8r8hy {
   background-color: var(--primary-color);
 }
-.mask.svelte-6vxbqk.svelte-6vxbqk {
+.mask.svelte-1r8r8hy.svelte-1r8r8hy {
   position: absolute;
   top: 0;
   bottom: 0;
@@ -352,11 +352,11 @@ h1.svelte-6vxbqk.svelte-6vxbqk, h2.svelte-6vxbqk.svelte-6vxbqk, h4.svelte-6vxbqk
       );
   background-size: 100% 100%;
 }
-.ending.svelte-6vxbqk.svelte-6vxbqk {
+.ending.svelte-1r8r8hy.svelte-1r8r8hy {
   position: absolute;
   top: 0;
   bottom: 0;
   width: 100%;
-  background: url(/assets/BruceandOrage.svg) no-repeat center 115px;
+  background: url(/assets/BruceandOrange.svg) no-repeat center 115px;
   background-size: 35vw auto;
 }

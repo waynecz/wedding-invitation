@@ -278,7 +278,7 @@
     top: 0;
     bottom: 0;
     width: 100%;
-    background: url(/assets/BruceandOrage.svg) no-repeat center 115px;
+    background: url(/assets/BruceandOrange.svg) no-repeat center 115px;
     background-size: 35vw auto;
   }
 </style>
