@@ -7,8 +7,8 @@
   onMount(async () => {
     player = new Player({
       id: 'vlog',
-      url: 'https://wedding-1307329121.cos.ap-nanjing.myqcloud.com/happy-wedding-vlog.mov',
-      poster: 'https://wedding-1307329121.cos.ap-nanjing.myqcloud.com/vlog-cover.jpg',
+      url: 'https://wedding-1307329121.file.myqcloud.com/happy-wedding-vlog.mov',
+      poster: 'https://wedding-1307329121.file.myqcloud.com/vlog-cover.jpg',
       controlPlugins: [],
       fitVideoSize: 'auto',
       width: '100vw',
@@ -35,7 +35,7 @@
       <h1 class="our-name">翁诚舟</h1>
       <div class="h-28px">
         <img
-          src="https://wedding-1307329121.cos.ap-nanjing.myqcloud.com/bruceandorange.svg"
+          src="https://wedding-1307329121.file.myqcloud.com/bruceandorange.svg"
           class="b-n-o"
           alt="Bruce and Orange"
         />
@@ -51,7 +51,7 @@
     <img
       class="absolute right-25px top-0 fern"
       width="60px"
-      src="https://wedding-1307329121.cos.ap-nanjing.myqcloud.com/fern.png?imageMogr2/thumbnail/!50p"
+      src="https://wedding-1307329121.file.myqcloud.com/fern.png?imageMogr2/thumbnail/!50p"
       alt=""
     />
     <div class="sentence">
@@ -103,7 +103,7 @@
   <div class="douyin-live">
     <img
       class="w-full relative z-10"
-      src="https://wedding-1307329121.cos.ap-nanjing.myqcloud.com/qr-group.jpg"
+      src="https://wedding-1307329121.file.myqcloud.com/qr-group.jpg"
       alt=""
     />
   </div>
