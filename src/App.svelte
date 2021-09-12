@@ -103,12 +103,12 @@
   <div class="douyin-live">
     <img
       class="w-full relative z-10"
-      src="https://wedding-1307329121.cos.ap-nanjing.myqcloud.com/qr.png?imageMogr2/thumbnail/!50p"
+      src="https://wedding-1307329121.cos.ap-nanjing.myqcloud.com/qr-group.jpg"
       alt=""
     />
   </div>
 
-  <div class="douyin-text">抖音扫码可以观看婚礼当天的直播哦</div>
+  <div class="douyin-text">抖音扫码可观看婚礼直播<br/>直播间 ID: 921201364</div>
 </main>
 
 <style>
@@ -240,28 +240,9 @@
   }
   .douyin-live {
     position: relative;
-    width: 40vw;
-    height: 40vw;
-    margin: 83px auto;
-  }
-  .douyin-live::after,
-  .douyin-live::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    z-index: 1;
-    width: 100%;
-    height: 100%;
-    border-radius: 50%;
-    background-color: #fff;
-    opacity: 0.18;
-  }
-  .douyin-live::before {
-    transform: translateY(20px);
-  }
-  .douyin-live::after {
-    transform: translateY(40px);
-    opacity: 0.07;
+    width: 44vw;
+    height: 44vw;
+    margin: 83px auto 40px;
   }
   .douyin-text {
     font-size: 11px;
