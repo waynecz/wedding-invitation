@@ -115,7 +115,7 @@
 
 <footer class="container gallery relative">
   <div class="mask" />
-  <h5 class="ending" />
+  <img src="/assets/BruceandOrange.svg" class="ending" alt="Bruce and Orange" />
   <img src="/assets/photo-thumb.jpg" width="100%" alt="" />
 </footer>
 
@@ -275,10 +275,10 @@
   }
   .ending {
     position: absolute;
-    top: 0;
-    bottom: 0;
-    width: 100%;
-    background: url(/assets/BruceandOrange.svg) no-repeat center 115px;
-    background-size: 35vw auto;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 30px;
+    width: 35vw;
+    margin: 0 auto;
   }
 </style>
