@@ -8,11 +8,13 @@
     player = new Player({
       id: 'vlog',
       url: 'https://wedding-1307329121.cos.ap-nanjing.myqcloud.com/happy-wedding-vlog.mov',
+      poster: 'https://wedding-1307329121.cos.ap-nanjing.myqcloud.com/vlog-cover.jpg',
       controlPlugins: [],
       fitVideoSize: 'auto',
       width: '100vw',
       height: '56.25vw',
       videoInit: true,
+      playsinline: true,
     })
   })
 </script>
