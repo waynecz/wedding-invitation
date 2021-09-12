@@ -13,7 +13,6 @@
       fitVideoSize: 'auto',
       width: '100vw',
       height: '56.25vw',
-      videoInit: true,
       playsinline: true,
     })
   })
