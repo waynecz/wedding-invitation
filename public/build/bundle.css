@@ -189,6 +189,9 @@ ul {
 .right-25px {
   right: 25px;
 }
+.top-20px {
+  top: 20px;
+}
 .text-red-500 {
   --tw-text-opacity: 1;
   color: rgba(239, 68, 68, var(--tw-text-opacity));
@@ -201,103 +204,103 @@ ul {
 }
 .z-10 {
   z-index: 10;
-}.container.svelte-d7ylto.svelte-d7ylto {
+}.container.svelte-6vxbqk.svelte-6vxbqk {
   width: 100%;
   margin: 0 auto;
 }
-.intro.svelte-d7ylto.svelte-d7ylto {
+.intro.svelte-6vxbqk.svelte-6vxbqk {
   background-color: #fff;
 }
-p.svelte-d7ylto.svelte-d7ylto {
+p.svelte-6vxbqk.svelte-6vxbqk {
   font-family: 'Source Serif Pro', serif;
 }
-h1.svelte-d7ylto.svelte-d7ylto, h2.svelte-d7ylto.svelte-d7ylto, h4.svelte-d7ylto.svelte-d7ylto, h5.svelte-d7ylto.svelte-d7ylto {
+h1.svelte-6vxbqk.svelte-6vxbqk, h2.svelte-6vxbqk.svelte-6vxbqk, h4.svelte-6vxbqk.svelte-6vxbqk, h5.svelte-6vxbqk.svelte-6vxbqk {
   font-family: '思源宋体 CN', serif;
 }
-.whats-it.svelte-d7ylto.svelte-d7ylto {
+.whats-it.svelte-6vxbqk.svelte-6vxbqk {
   display: block;
   font-size: 8.5px;
   line-height: 18px;
   transform: translateY(1px);
   text-decoration: underline;
 }
-.b-n-o.svelte-d7ylto.svelte-d7ylto {
+.b-n-o.svelte-6vxbqk.svelte-6vxbqk {
   margin-top: 6px;
   margin-bottom: -4px;
   color: var(--primary-color);
 }
-.our-name.svelte-d7ylto.svelte-d7ylto {
+.our-name.svelte-6vxbqk.svelte-6vxbqk {
   font-size: 40px;
   line-height: 57px;
   font-weight: 600;
 }
-.magic-circle.svelte-d7ylto.svelte-d7ylto {
+.magic-circle.svelte-6vxbqk.svelte-6vxbqk {
   position: absolute;
   top: 0;
   width: 98px;
   height: 98px;
   background-color: var(--primary-color);
 }
-.separator.svelte-d7ylto.svelte-d7ylto {
+.separator.svelte-6vxbqk.svelte-6vxbqk {
   margin-top: 58px;
   background-color: #111;
   transform: scaleY(0.7);
 }
-.which-day.svelte-d7ylto.svelte-d7ylto {
+.which-day.svelte-6vxbqk.svelte-6vxbqk {
   font-size: 32px;
   line-height: 44px;
 }
-.sentence.svelte-d7ylto>h4.svelte-d7ylto {
+.sentence.svelte-6vxbqk>h4.svelte-6vxbqk {
   font-size: 14px;
   line-height: 20px;
 }
-.sentence.svelte-d7ylto>p.svelte-d7ylto {
+.sentence.svelte-6vxbqk>p.svelte-6vxbqk {
   font-size: 12px;
   line-height: 14px;
 }
-.location.svelte-d7ylto.svelte-d7ylto::before {
+.location.svelte-6vxbqk.svelte-6vxbqk::before {
   position: absolute;
   left: -14px;
   top: 2px;
   content: url(/assets/location.svg);
 }
-#vlog.svelte-d7ylto.svelte-d7ylto {
+#vlog.svelte-6vxbqk.svelte-6vxbqk {
   overflow: hidden;
 }
-#vlog.svelte-d7ylto.svelte-d7ylto::after {
+#vlog.svelte-6vxbqk.svelte-6vxbqk::after {
   content: '';
   display: block;
   padding-bottom: 56.25%;
   background-color: #111;
 }
-.process.svelte-d7ylto.svelte-d7ylto {
+.process.svelte-6vxbqk.svelte-6vxbqk {
   color: white;
   padding-bottom: 75px;
 }
-.process.svelte-d7ylto>h2.svelte-d7ylto {
+.process.svelte-6vxbqk>h2.svelte-6vxbqk {
   font-size: 25px;
   line-height: 36px;
   font-weight: 600;
 }
-.process.svelte-d7ylto>p.svelte-d7ylto {
+.process.svelte-6vxbqk>p.svelte-6vxbqk {
   font-size: 10px;
   line-height: 14px;
   text-decoration: underline;
 }
-.steps.svelte-d7ylto.svelte-d7ylto {
+.steps.svelte-6vxbqk.svelte-6vxbqk {
   margin-top: 43px;
   padding-left: 11px;
 }
-.step-item.svelte-d7ylto.svelte-d7ylto {
+.step-item.svelte-6vxbqk.svelte-6vxbqk {
   margin-bottom: 33px;
 }
-.step-title.svelte-d7ylto.svelte-d7ylto {
+.step-title.svelte-6vxbqk.svelte-6vxbqk {
   position: relative;
   font-size: 16px;
   line-height: 21px;
   font-weight: 600;
 }
-.step-title.svelte-d7ylto.svelte-d7ylto::before {
+.step-title.svelte-6vxbqk.svelte-6vxbqk::before {
   position: absolute;
   left: -16px;
   top: 4px;
@@ -307,7 +310,7 @@ h1.svelte-d7ylto.svelte-d7ylto, h2.svelte-d7ylto.svelte-d7ylto, h4.svelte-d7ylto
   border-radius: 50%;
   background-color: var(--secondary-color);
 }
-.step-details.svelte-d7ylto.svelte-d7ylto {
+.step-details.svelte-6vxbqk.svelte-6vxbqk {
   margin-top: 5px;
   font-size: 13px;
   line-height: 17px;
@@ -315,21 +318,45 @@ h1.svelte-d7ylto.svelte-d7ylto, h2.svelte-d7ylto.svelte-d7ylto, h4.svelte-d7ylto
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
         Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
-.hint.svelte-d7ylto.svelte-d7ylto {
+.hint.svelte-6vxbqk.svelte-6vxbqk {
   font-size: 13px;
   line-height: 17px;
   padding-left: 12px;
   color: var(--secondary-color);
 }
-.douyin-live.svelte-d7ylto.svelte-d7ylto {
+.douyin-live.svelte-6vxbqk.svelte-6vxbqk {
   position: relative;
   width: 44vw;
   height: 44vw;
   margin: 83px auto 40px;
 }
-.douyin-text.svelte-d7ylto.svelte-d7ylto {
+.douyin-text.svelte-6vxbqk.svelte-6vxbqk {
   font-size: 11px;
   line-height: 14px;
   font-weight: 300;
   text-align: center;
+}
+.gallery.svelte-6vxbqk.svelte-6vxbqk {
+  background-color: var(--primary-color);
+}
+.mask.svelte-6vxbqk.svelte-6vxbqk {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  background-image: linear-gradient(
+        180deg,
+        var(--primary-color) 0%,
+        rgba(97,106,88, 0.4) 100%,
+        transparent 150%
+      );
+  background-size: 100% 100%;
+}
+.ending.svelte-6vxbqk.svelte-6vxbqk {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  background: url(/assets/BruceandOrage.svg) no-repeat center 115px;
+  background-size: 35vw auto;
 }

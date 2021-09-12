@@ -49,8 +49,8 @@
 
   <section class="pt-25px content relative">
     <img
-      class="absolute right-25px top-0 fern"
-      width="60px"
+      class="absolute right-25px top-20px fern"
+      width="40px"
       src="https://wedding-1307329121.file.myqcloud.com/fern.png?imageMogr2/thumbnail/!50p"
       alt=""
     />
@@ -108,8 +108,16 @@
     />
   </div>
 
-  <div class="douyin-text">抖音扫码可观看婚礼直播<br/>直播间 ID: 921201364</div>
+  <div class="douyin-text">
+    抖音扫码可观看婚礼直播<br />直播间 ID: 921201364
+  </div>
 </main>
+
+<footer class="container gallery relative">
+  <div class="mask" />
+  <h5 class="ending" />
+  <img src="/assets/photo-thumb.jpg" width="100%" alt="" />
+</footer>
 
 <style>
   .container {
@@ -175,9 +183,6 @@
     top: 2px;
     content: url(/assets/location.svg);
   }
-  /* .fern {
-   filter: drop-shadow(0 -190px 0 var(--primary-color));
- } */
   #vlog {
     overflow: hidden;
   }
@@ -249,5 +254,31 @@
     line-height: 14px;
     font-weight: 300;
     text-align: center;
+  }
+  .gallery {
+    background-color: var(--primary-color);
+  }
+  .mask {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    /* background-color: var(--primary-color); */
+    background-image: linear-gradient(
+      180deg,
+      var(--primary-color) 0%,
+      rgba(97,106,88, 0.4) 100%,
+      transparent 150%
+    );
+    background-size: 100% 100%;
+    /* opacity: 0.7; */
+  }
+  .ending {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    background: url(/assets/BruceandOrage.svg) no-repeat center 115px;
+    background-size: 35vw auto;
   }
 </style>
