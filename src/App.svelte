@@ -7,7 +7,7 @@
   onMount(async () => {
     player = new Player({
       id: 'vlog',
-      url: 'https://wedding-1307329121.file.myqcloud.com/happy-wedding-vlog.mov',
+      url: 'https://dpv.videocc.net/4b71b06abc/9/4b71b06abcc07efff08f50277c50ff19_2.mp4?pid=1631583316783X1200110',
       poster: 'https://wedding-1307329121.file.myqcloud.com/vlog-cover.jpg',
       controlPlugins: [],
       fitVideoSize: 'auto',
