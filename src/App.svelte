@@ -89,7 +89,7 @@
       </div>
     </li>
     <li class="step-item">
-      <h4 class="step-title">12:30 · 午宴就餐</h4>
+      <h4 class="step-title">12:00 · 准备进酒店开始午宴</h4>
       <div class="step-details">
         我们的午餐安排的有点晚，大家记得在游园会上先吃点哦
       </div>
